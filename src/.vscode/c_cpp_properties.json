@@ -1,0 +1,61 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Win32",
+            "includePath": [
+                "f:/Dropbox/PROJECT/BarnDoor Tracker/Barndoor_controller_v1.4/include",
+                "f:/Dropbox/PROJECT/BarnDoor Tracker/Barndoor_controller_v1.4/src",
+                "f:/Dropbox/PROJECT/BarnDoor Tracker/Barndoor_controller_v1.4/lib/TimerOne-r11",
+                "f:/Dropbox/PROJECT/BarnDoor Tracker/Barndoor_controller_v1.4/lib/StepperDriver-master/src",
+                "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                "C:/Users/PD5DJ/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "f:/Dropbox/PROJECT/BarnDoor Tracker/Barndoor_controller_v1.4/include",
+                    "f:/Dropbox/PROJECT/BarnDoor Tracker/Barndoor_controller_v1.4/src",
+                    "f:/Dropbox/PROJECT/BarnDoor Tracker/Barndoor_controller_v1.4/lib/TimerOne-r11",
+                    "f:/Dropbox/PROJECT/BarnDoor Tracker/Barndoor_controller_v1.4/lib/StepperDriver-master/src",
+                    "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                    "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "C:/Users/PD5DJ/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    "C:/Users/PD5DJ/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50003",
+                "ARDUINO_AVR_NANO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "intelliSenseMode": "gcc-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "C:/Users/PD5DJ/.platformio/packages/toolchain-atmelavr/bin/avr-gcc.exe",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
